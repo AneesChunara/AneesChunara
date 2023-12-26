@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AneesChunara
 - 👀 I’m interested in Computer Science and inforamtion Security
-- 🌱 I’m currently learning Google's Cybersecurity Cert
+- 🌱 I’m currently learning CompTIA Security+
 - 💞️ I’m looking to collaborate on Cybersecurity related topics
 - 📫 How to reach me @ Anees.Chunara@jjay.cuny.edu
 
